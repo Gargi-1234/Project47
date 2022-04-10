@@ -54,7 +54,7 @@ function preload(){
   chest1 = loadImage("images/chest1.png")
   chest2 = loadImage("images/chest2.png")
   openButtonImg = loadImage("images/open.png")
-  instructionBox3Img = loadImage("images/Instruction3.png")
+  instructionBox3Img = loadImage("images/instruction3.png")
   blockImg = loadImage("images/block.png")
   stoneImg = loadImage("images/stone.png")
   bronzeKeyImg = loadImage("images/bronzeKey.png")
